@@ -1,53 +1,57 @@
-## 🏛️ Sakarya CPA & Sworn CPA Mobile App & Management Platform | Promotional Website
+## 🏛️ Sakarya CPA Promotion Website
 
-> *"A comprehensive digital gateway designed to streamline operations for the Sakarya Chamber of Certified Public Accountants and Sworn-in Certified Public Accountants."*
+> *"Digital promotion platform of Sakarya Chamber of Certified Public Accountants and Certified Public Accountants. ”*
 
 ---
 
 ### 🔍 About the Project
 
-**Sakarya Chamber of Certified Public Accountants and Sworn-in Certified Public Accountants Mobile Application and Management Platform** is a promotional website showcasing a full-featured mobile app and back‑end management system. This platform empowers members with easy access to resources, event registrations, announcements, and secure document handling, while administrators benefit from intuitive dashboards for user management, analytics, and content updates.
+**Sakarya SMMMO Promotion Website** is a modern promotion platform that reflects the digital presence of Sakarya Chamber of Certified Public Accountants and Certified Public Accountants. This site aims to effectively present the Chamber's services, events and announcements to visitors.
 
 ---
 
 ### 🛠️ Technologies Used
 
-- **Next.js** & **React** – Fast, SEO‑friendly front‑end  
-- **Node.js** & **Express** – Robust API and back‑end services  
-- **MongoDB** – Flexible, scalable data storage  
-- **Tailwind CSS** – Utility‑first responsive design  
-- **JWT Authentication** – Secure user login and role management  
-- **Iyzico Payment API** – Integrated payment processing  
+- **HTML5** & **CSS3** - Basic structure and styling
+- **JavaScript** - Interactive elements and animations
+- **React** - User interface components
+- **Next.js** - Server-side rendering and SEO compatibility
+- **Tailwind CSS** - Fast and responsive design
+- **Vercel** - Distribution platform
 
 ---
 
 ### ✨ Highlights
 
-- 📱 **Mobile‑First Design**: Seamless experience on smartphones and tablets  
-- 📊 **Admin Dashboard**: Real‑time analytics, user & content management  
-- 🔔 **Push Notifications**: Instant updates on news, events, deadlines  
-- 📅 **Event Module**: Easy event creation, registration, and calendar sync  
-- 📂 **Document Center**: Secure upload, download, and version control  
+- 🌐 **Announcement and Event Pages**: Sections where current events and announcements are displayed
+- 📄 **Corporate Information**: Information about the history, mission and vision of the Chamber
+- 📞 **Contact Form**: A form that visitors can easily contact
+- **Mobile Compatible Design**: Compatible and user-friendly interface on all devices
 
 ---
 
-### 🎯 Goals & Outcomes
+### 🎯 Goals and Results
 
-- Simplified member engagement with intuitive mobile access  
-- Enhanced administrative efficiency through centralized management tools  
-- Strengthened communication via real‑time notifications and announcements  
-- Ensured data security and compliance with industry standards  
+- Increasing the digital visibility of Sakarya CPA
+- Providing an accessible source of information for members and visitors
+- Strengthening corporate communication and encouraging participation in events
 
 ---
 
 ### 🧪 Demo / Review
 
-📂 Explore the live promotional site:  
-👉 [Sakarya CPA Platform Demo](https://smmmo.vercel.app)
+📂 To review the live promotion site:  
+👉 [Sakarya SMMMO Promotion Website](https://smmmo.vercel.app/)
 
 ---
 
 ### 📩 Feedback
 
-Your insights and suggestions are welcome!  
-Help us refine the platform to better serve the Sakarya accounting community. 🙏
+You can share your opinions, suggestions and constructive criticism about the project with us!  
+Your comments are very valuable for me to improve myself. 🙏
+
+
+--- 
+
+> *"Now your smile is fake, your eyes are always tired. ”*  
+> *- Aydocs*
