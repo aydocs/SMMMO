@@ -1,0 +1,97 @@
+/* [project]/app/components/HareketliResimler.module.css [app-client] (css) */
+.HareketliResimler-module__oqbrxq__fadeOut {
+  opacity: 0;
+  animation: 1s ease-in-out forwards HareketliResimler-module__oqbrxq__fadeOut;
+}
+
+.HareketliResimler-module__oqbrxq__fadeIn {
+  opacity: 1;
+  animation: 1s ease-in-out forwards HareketliResimler-module__oqbrxq__fadeIn;
+}
+
+@keyframes HareketliResimler-module__oqbrxq__fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes HareketliResimler-module__oqbrxq__fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+
+/* [project]/app/components/HareketliYazi.module.css [app-client] (css) */
+.HareketliYazi-module__cVUFZq__fadeOut {
+  opacity: 0;
+  animation: 1s ease-in-out forwards HareketliYazi-module__cVUFZq__fadeOut;
+}
+
+.HareketliYazi-module__cVUFZq__fadeIn {
+  opacity: 1;
+  animation: 1s ease-in-out forwards HareketliYazi-module__cVUFZq__fadeIn;
+}
+
+@keyframes HareketliYazi-module__cVUFZq__fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes HareketliYazi-module__cVUFZq__fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+
+/* [project]/app/components/HareketliBaslik.module.css [app-client] (css) */
+.HareketliBaslik-module__uSndeG__fadeOut {
+  opacity: 0;
+  animation: 1s ease-in-out forwards HareketliBaslik-module__uSndeG__fadeOut;
+}
+
+.HareketliBaslik-module__uSndeG__fadeIn {
+  opacity: 1;
+  animation: 1s ease-in-out forwards HareketliBaslik-module__uSndeG__fadeIn;
+}
+
+@keyframes HareketliBaslik-module__uSndeG__fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes HareketliBaslik-module__uSndeG__fadeOut {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+
+/*# sourceMappingURL=app_components_c24577._.css.map*/
